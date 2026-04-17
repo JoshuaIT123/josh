@@ -1,0 +1,10 @@
+import react from "react"
+
+function login(){
+return(
+<>
+<p>this is about how you can signin kin your account</p>
+</>
+)
+}
+export default login
